@@ -1,2 +1,2 @@
-# intro-to-computer-science-front-end-masters
+# algorithms-exercises
 Created with CodeSandbox
